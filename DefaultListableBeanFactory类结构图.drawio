@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T09:19:45.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="DNpJcJqOwEbo3sONit3e" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T09:20:23.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="uzyBvEm5Tof4rBZUqpHc" version="20.3.0" type="github">
   <diagram id="b4QS8AzE71y9KJXJqie6" name="第 1 页">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -26,6 +26,11 @@
             <mxPoint x="540" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mhQiujRXApvYBwxwYqwX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="mhQiujRXApvYBwxwYqwX-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mhQiujRXApvYBwxwYqwX-32" value="《Java class》&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#000000;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;AbstractAutowireCapableBeanFactory&lt;/pre&gt;" style="html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="495" y="240" width="280" height="60" as="geometry" />
         </mxCell>
@@ -33,7 +38,10 @@
           <mxGeometry x="790" y="240" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mhQiujRXApvYBwxwYqwX-38" value="«Java Class»&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#000000;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;AbstractBeanFactory&lt;/pre&gt;" style="html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="460" y="410" width="170" height="50" as="geometry" />
+          <mxGeometry x="460" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhQiujRXApvYBwxwYqwX-40" value="«Java interface»&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#000000;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;AutowireCapableBeanFactory&lt;/pre&gt;" style="html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="717" y="420" width="203" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
