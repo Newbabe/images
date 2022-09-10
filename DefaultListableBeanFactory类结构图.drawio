@@ -1,19 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T09:06:07.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="Ce2-EBxSF_FK47ZIb7Zh" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-10T09:11:28.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="wWeJmZIbHx6zpl-OWtkA" version="20.3.0" type="github">
   <diagram id="b4QS8AzE71y9KJXJqie6" name="第 1 页">
     <mxGraphModel dx="921" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mhQiujRXApvYBwxwYqwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;" edge="1" parent="1" source="mhQiujRXApvYBwxwYqwX-1">
+        <mxCell id="mhQiujRXApvYBwxwYqwX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="320" as="targetPoint" />
+            <mxPoint x="260" y="125" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mhQiujRXApvYBwxwYqwX-1" value="&lt;pre style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mhQiujRXApvYBwxwYqwX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#393C56;fillColor=#F2CC8F;strokeColor=#E07A5F;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhQiujRXApvYBwxwYqwX-25" value="«class»&lt;br&gt;&lt;pre style=&quot;background-color:#ffffff;color:#000000;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;DefaultListableBeanFactory&lt;/pre&gt;" style="html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
